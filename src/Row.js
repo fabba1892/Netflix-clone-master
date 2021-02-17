@@ -65,4 +65,6 @@ function Row({ title, fetchUrl, isLargeRow }) {
 
 export default Row;
 // created app with api , rows&movies
+// adde the viedo trailer opts installed movie trailer and react-youtube
+
 
