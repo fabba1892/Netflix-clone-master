@@ -29,5 +29,5 @@ function App() {
 export default App;
 // created app with api , rows&movies
 // banner build, decription, content
-
+// navbar and useEffectes and listener created
 

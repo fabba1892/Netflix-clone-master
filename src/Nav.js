@@ -33,3 +33,4 @@ function Nav() {
 }
 
 export default Nav;
+// navbar and useEffectes and listener created
