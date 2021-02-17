@@ -64,3 +64,5 @@ function Row({ title, fetchUrl, isLargeRow }) {
 }
 
 export default Row;
+// created app with api , rows&movies
+

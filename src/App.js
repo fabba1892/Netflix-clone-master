@@ -27,3 +27,5 @@ function App() {
 }
 
 export default App;
+// created app with api , rows&movies
+

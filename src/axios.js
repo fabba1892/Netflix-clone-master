@@ -6,3 +6,5 @@ const instance = axios.create({
 });
 
 export default instance;
+// created app with api , rows&movies
+
