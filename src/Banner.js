@@ -54,3 +54,5 @@ function Banner() {
 
 export default Banner;
 // banner build, decription, content
+// style banner title/button and style
+
